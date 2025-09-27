@@ -1,3 +1,9 @@
+/**
+ * A Java program that calculates statistics on temperature readings
+ *
+ * @author Sanskar Luitel
+ * @version 4
+ */
 import java.util.*;
 
 public class Proj4 {
