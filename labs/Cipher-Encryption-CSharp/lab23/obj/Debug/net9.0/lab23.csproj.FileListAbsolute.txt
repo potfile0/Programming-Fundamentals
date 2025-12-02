@@ -1,0 +1,15 @@
+C:\Users\sans1\OneDrive\cis-200-repo-potfile0-main\cis-200-repo-potfile0-main\cis-200-repo-potfile0\labs\lab23\lab23\obj\Debug\net9.0\lab23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sans1\OneDrive\cis-200-repo-potfile0-main\cis-200-repo-potfile0-main\cis-200-repo-potfile0\labs\lab23\lab23\obj\Debug\net9.0\lab23.AssemblyInfoInputs.cache
+C:\Users\sans1\OneDrive\cis-200-repo-potfile0-main\cis-200-repo-potfile0-main\cis-200-repo-potfile0\labs\lab23\lab23\obj\Debug\net9.0\lab23.AssemblyInfo.cs
+C:\Users\sans1\OneDrive\cis-200-repo-potfile0-main\cis-200-repo-potfile0-main\cis-200-repo-potfile0\labs\lab23\lab23\obj\Debug\net9.0\lab23.csproj.CoreCompileInputs.cache
+C:\Users\sans1\OneDrive\cis-200-repo-potfile0-main\cis-200-repo-potfile0-main\cis-200-repo-potfile0\labs\lab23\lab23\obj\Debug\net9.0\lab23.sourcelink.json
+C:\Users\sans1\OneDrive\cis-200-repo-potfile0-main\cis-200-repo-potfile0-main\cis-200-repo-potfile0\labs\lab23\lab23\bin\Debug\net9.0\lab23.exe
+C:\Users\sans1\OneDrive\cis-200-repo-potfile0-main\cis-200-repo-potfile0-main\cis-200-repo-potfile0\labs\lab23\lab23\bin\Debug\net9.0\lab23.deps.json
+C:\Users\sans1\OneDrive\cis-200-repo-potfile0-main\cis-200-repo-potfile0-main\cis-200-repo-potfile0\labs\lab23\lab23\bin\Debug\net9.0\lab23.runtimeconfig.json
+C:\Users\sans1\OneDrive\cis-200-repo-potfile0-main\cis-200-repo-potfile0-main\cis-200-repo-potfile0\labs\lab23\lab23\bin\Debug\net9.0\lab23.dll
+C:\Users\sans1\OneDrive\cis-200-repo-potfile0-main\cis-200-repo-potfile0-main\cis-200-repo-potfile0\labs\lab23\lab23\bin\Debug\net9.0\lab23.pdb
+C:\Users\sans1\OneDrive\cis-200-repo-potfile0-main\cis-200-repo-potfile0-main\cis-200-repo-potfile0\labs\lab23\lab23\obj\Debug\net9.0\lab23.dll
+C:\Users\sans1\OneDrive\cis-200-repo-potfile0-main\cis-200-repo-potfile0-main\cis-200-repo-potfile0\labs\lab23\lab23\obj\Debug\net9.0\refint\lab23.dll
+C:\Users\sans1\OneDrive\cis-200-repo-potfile0-main\cis-200-repo-potfile0-main\cis-200-repo-potfile0\labs\lab23\lab23\obj\Debug\net9.0\lab23.pdb
+C:\Users\sans1\OneDrive\cis-200-repo-potfile0-main\cis-200-repo-potfile0-main\cis-200-repo-potfile0\labs\lab23\lab23\obj\Debug\net9.0\lab23.genruntimeconfig.cache
+C:\Users\sans1\OneDrive\cis-200-repo-potfile0-main\cis-200-repo-potfile0-main\cis-200-repo-potfile0\labs\lab23\lab23\obj\Debug\net9.0\ref\lab23.dll
