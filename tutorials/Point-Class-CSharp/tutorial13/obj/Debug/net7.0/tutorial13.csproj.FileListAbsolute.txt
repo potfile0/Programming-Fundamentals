@@ -1,0 +1,14 @@
+C:\Users\sansk\OneDrive\cis-200-repo-potfile0-main\cis-200-repo-potfile0-main\cis-200-repo-potfile0\tutorials\tutorial13\tutorial13\bin\Debug\net7.0\tutorial13.exe
+C:\Users\sansk\OneDrive\cis-200-repo-potfile0-main\cis-200-repo-potfile0-main\cis-200-repo-potfile0\tutorials\tutorial13\tutorial13\bin\Debug\net7.0\tutorial13.deps.json
+C:\Users\sansk\OneDrive\cis-200-repo-potfile0-main\cis-200-repo-potfile0-main\cis-200-repo-potfile0\tutorials\tutorial13\tutorial13\bin\Debug\net7.0\tutorial13.runtimeconfig.json
+C:\Users\sansk\OneDrive\cis-200-repo-potfile0-main\cis-200-repo-potfile0-main\cis-200-repo-potfile0\tutorials\tutorial13\tutorial13\bin\Debug\net7.0\tutorial13.dll
+C:\Users\sansk\OneDrive\cis-200-repo-potfile0-main\cis-200-repo-potfile0-main\cis-200-repo-potfile0\tutorials\tutorial13\tutorial13\bin\Debug\net7.0\tutorial13.pdb
+C:\Users\sansk\OneDrive\cis-200-repo-potfile0-main\cis-200-repo-potfile0-main\cis-200-repo-potfile0\tutorials\tutorial13\tutorial13\obj\Debug\net7.0\tutorial13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sansk\OneDrive\cis-200-repo-potfile0-main\cis-200-repo-potfile0-main\cis-200-repo-potfile0\tutorials\tutorial13\tutorial13\obj\Debug\net7.0\tutorial13.AssemblyInfoInputs.cache
+C:\Users\sansk\OneDrive\cis-200-repo-potfile0-main\cis-200-repo-potfile0-main\cis-200-repo-potfile0\tutorials\tutorial13\tutorial13\obj\Debug\net7.0\tutorial13.AssemblyInfo.cs
+C:\Users\sansk\OneDrive\cis-200-repo-potfile0-main\cis-200-repo-potfile0-main\cis-200-repo-potfile0\tutorials\tutorial13\tutorial13\obj\Debug\net7.0\tutorial13.csproj.CoreCompileInputs.cache
+C:\Users\sansk\OneDrive\cis-200-repo-potfile0-main\cis-200-repo-potfile0-main\cis-200-repo-potfile0\tutorials\tutorial13\tutorial13\obj\Debug\net7.0\tutorial13.dll
+C:\Users\sansk\OneDrive\cis-200-repo-potfile0-main\cis-200-repo-potfile0-main\cis-200-repo-potfile0\tutorials\tutorial13\tutorial13\obj\Debug\net7.0\refint\tutorial13.dll
+C:\Users\sansk\OneDrive\cis-200-repo-potfile0-main\cis-200-repo-potfile0-main\cis-200-repo-potfile0\tutorials\tutorial13\tutorial13\obj\Debug\net7.0\tutorial13.pdb
+C:\Users\sansk\OneDrive\cis-200-repo-potfile0-main\cis-200-repo-potfile0-main\cis-200-repo-potfile0\tutorials\tutorial13\tutorial13\obj\Debug\net7.0\tutorial13.genruntimeconfig.cache
+C:\Users\sansk\OneDrive\cis-200-repo-potfile0-main\cis-200-repo-potfile0-main\cis-200-repo-potfile0\tutorials\tutorial13\tutorial13\obj\Debug\net7.0\ref\tutorial13.dll
